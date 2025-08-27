@@ -1,0 +1,22 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "learning",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Mansi Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserlist":{
+    "development" :"last 2 chome version"
+  }
+}
